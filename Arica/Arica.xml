@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>Arica.ac</path>
+	
+	<!-- Transposición de texturas nocturnas -->
+	
+<animation>
+	<type>textranslate</type>
+	<object-name>Arica_aerea</object-name>
+	<object-name>city1</object-name>
+	<object-name>Edif_Alborada</object-name>
+	<object-name>Cristo1</object-name>
+	<object-name>Cristo2</object-name>
+	<object-name>Aduana</object-name>
+	<object-name>FFCC_frontis</object-name>
+	<object-name>FFCC_murallas</object-name>
+	<property>/sim/time/sun-angle-rad</property>
+		<step> 1.57 </step>
+		<factor>0.318471338</factor>
+	<center>
+		<x-m> 0 </x-m>
+		<y-m> 0 </y-m>
+		<z-m> 0 </z-m>
+	</center>
+	<axis>
+		<x> -1 </x>
+		<y>  0 </y>
+		<z>  0 </z>
+	</axis>
+</animation>
+
+<animation>
+	<type>textranslate</type>
+	<object-name>Cladding_Stucco</object-name>
+	<object-name>beige_lite</object-name>
+	<object-name>SII</object-name>
+	<object-name>Megasalud</object-name>
+	<property>/sim/time/sun-angle-rad</property>
+		<step> 1.57 </step>
+		<factor>0.318471338</factor>
+	<center>
+		<x-m> 0 </x-m>
+		<y-m> 0 </y-m>
+		<z-m> 0 </z-m>
+	</center>
+	<axis>
+		<x>  0 </x>
+		<y> -1 </y>
+		<z>  0 </z>
+	</axis>
+</animation>
+	
+</PropertyList>

@@ -1,0 +1,33 @@
+ARICA
+-----
+
+Arica es la ciudad-puerto más importante en el extremo norte de Chile. Uno de sus atractivos turísticos más notables es el "morro de Arica", un cerro que se adentra hacia la costa, y que fue escenario de una gran batalla, siendo conquistado por Ejército de Chile durante la Guerra del Pacífico.
+
+Para instalar y visualizar correctamente los modelos se debe tener previamente instalado el escenario w080s20. Además para una mejor integración de los modelos con el terreno se recomienda tener instalado el set de texturas "FotoTexturas_FGFS" disponibles en http://www.grafikavirtual.com/fgfs.
+
+INSTALACIÓN
+-----------
+
+1.- Copie la carpeta "Arica" y todo su contenido en el directorio "data/Models".
+2.- Copie y reemplace el archivo "1790437.stg" en la carpeta "data/Scenery/Terrain/w080s20/w071s19".
+
+
+VISUALIZACIÓN
+-------------
+
+Para realizar un reconocimiento visual del modelo, incie vuelo desde SCAR, pista 20. En cuanto haya despegado, verá la ciudad de Arica a unos 30 grados a la izquierda.
+
+NOTAS
+-----
+
+1.- La ubicación geográfica de la ciudad no es exacta. Ha sido modificada para que su visualización en FG sea similar a la realidad, teniendo en cuenta otras referencias visuales tales como costas, ríos, etc.
+2.- El morro y la mayoría de los modelos de la ciudad han sido desarrollados absolutamente en forma original por al autor.
+3.- Para ver mayor información de la ciudad, puede visitar los siguientes enlaces:
+
+Arica: http://es.wikipedia.org/wiki/Arica
+Morro: http://es.wikipedia.org/wiki/Morro_de_Arica
+
+Horacio Contreras
+...para toda la comunidad de Flightgear.
+
+Más addons: http://www.grafikavirtual.com/fgfs

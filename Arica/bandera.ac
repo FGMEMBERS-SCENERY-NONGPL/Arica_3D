@@ -1,0 +1,28 @@
+AC3Db
+MATERIAL "default" rgb 1 1 1 amb 1 1 1 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0
+MATERIAL "bandera" rgb 1 1 1 amb 1 1 1 emis 1 1 1 spec 0.2 0.2 0.2 shi 128 trans 0.0000
+OBJECT world
+kids 1
+OBJECT poly
+name "bandera"
+texture "bandera.png"
+numvert 4
+14.100000 14.100000 -0.000000
+0.000000 0.000000 0.000000
+14.100000 0.000000 0.000000
+0.000000 14.100000 -0.000000
+numsurf 2
+SURF 0x30
+mat 1
+refs 3
+0 0.5036 1.0071
+1 0.0000 0.0000
+2 0.5036 0.0000
+SURF 0x30
+mat 1
+refs 3
+1 0.0000 0.0000
+0 0.5036 1.0071
+3 0.0000 1.0071
+kids 0
+
